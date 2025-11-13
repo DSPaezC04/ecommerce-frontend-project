@@ -19,7 +19,7 @@ The design focuses on:
 
 ## Figma File
 
-👉 [Open the full Figma prototype](https://www.figma.com/file/https://www.figma.com/proto/18BYvSvbyCUOVL4EEAujJZ/E-COMMERCE?node-id=0-1&t=wkTSpWHJvrCb9l1R-1)
+👉 [Open the full Figma prototype](https://www.figma.com/proto/18BYvSvbyCUOVL4EEAujJZ/E-COMMERCE?node-id=0-1&t=wkTSpWHJvrCb9l1R-1)
 
 
 
